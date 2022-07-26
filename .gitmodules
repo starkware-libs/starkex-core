@@ -1,0 +1,20 @@
+[submodule "starkex-for-spot-trading"]
+	path = starkex-for-spot-trading
+	url = https://github.com/starkware-libs/starkex-for-spot-trading.git
+	commit = 607f0b4
+[submodule "starkex-js"]
+	path = starkex-js
+	url = https://github.com/starkware-libs/starkex-js
+	commit = b27ee17
+[submodule "starkex-contracts"]
+	path = starkex-contracts
+	url = https://github.com/starkware-libs/starkex-contracts.git
+	commit = df807db
+[submodule "starkware-crypto-utils"]
+	path = starkware-crypto-utils
+	url = https://github.com/starkware-libs/starkware-crypto-utils.git
+	commit = d3a1e65
+[submodule "starkex-data-availability-committee"]
+	path = starkex-data-availability-committee
+	url = https://github.com/starkware-libs/starkex-data-availability-committee.git
+	commit = 7d72f8e
